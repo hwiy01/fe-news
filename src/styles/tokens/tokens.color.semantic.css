@@ -6,7 +6,6 @@
   --color-text-tertiary: var(--color-grayscale-300);
   --color-text-disabled: var(--color-grayscale-200);
   --color-text-inverse: var(--color-grayscale-white);
-
   /* ---------- Background ---------- */
   --color-bg-default: var(--color-grayscale-white);
   --color-bg-alt: var(--color-grayscale-50);

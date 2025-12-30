@@ -13,6 +13,7 @@
 
 .auto-rolling-news-bar > h3 {
     font: var(--typo-display-bold14);
+    white-space: nowrap;
 }
 
 .auto-rolling-news-bar > div {
